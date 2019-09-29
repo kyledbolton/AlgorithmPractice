@@ -1,0 +1,11 @@
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp2.1\AlgorithmPractice.deps.json
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp2.1\AlgorithmPractice.runtimeconfig.json
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp2.1\AlgorithmPractice.runtimeconfig.dev.json
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp2.1\AlgorithmPractice.dll
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\bin\Debug\netcoreapp2.1\AlgorithmPractice.pdb
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.csprojAssemblyReference.cache
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.AssemblyInfoInputs.cache
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.AssemblyInfo.cs
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.dll
+C:\Repositories\AlgorithmPractice\AlgorithmPractice\AlgorithmPractice\obj\Debug\netcoreapp2.1\AlgorithmPractice.pdb
